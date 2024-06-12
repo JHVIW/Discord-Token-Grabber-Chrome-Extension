@@ -1,1 +1,0 @@
-# Discord-Token-Grabber-Chrome-Extension
