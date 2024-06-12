@@ -5,7 +5,7 @@ This script allows you to log into Discord's web app using a specified token.
 
 **Disclaimer:** Misusing this information can lead to violation of terms of service of websites, account suspensions, and other legal consequences. Use this knowledge responsibly and ethically.
 
-## Step 2: Prepare the JavaScript Code
+## Step 1: Prepare the JavaScript Code
 
 1. **Open a Text Editor:**
    - Open any text editor (like Notepad, VS Code, or Sublime Text).
@@ -27,7 +27,7 @@ This script allows you to log into Discord's web app using a specified token.
 
 ## Usage Instructions
 
-### Step 3: Execute the Script
+### Step 2: Execute the Script
 
 1. **Go to Discord's Web App:**
    - Navigate to [Discord](https://discord.com) in your browser.
@@ -42,7 +42,7 @@ This script allows you to log into Discord's web app using a specified token.
    - Copy the entire script from your text editor.
    - Paste it into the Console in Developer Tools and press `Enter`.
 
-### Step 4: Wait and Observe
+### Step 3: Wait and Observe
 
 - The script will insert your token into the local storage every 50 milliseconds.
 - After 2.5 seconds, the page will reload.
